@@ -1,0 +1,6 @@
+{
+  "name": "Kinetic Pin Matrix",
+  "description": "Interactive 3D mechanical pin matrix simulation with a rolling metallic chrome sphere and reactive depression crater.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
